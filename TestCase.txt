@@ -1,0 +1,11 @@
+Q.1) No
+
+
+Q.2) TEST CASE
+
+Feature: I want to login to application using valid credentials 
+
+Given : I want to launch the browser
+And : I enter the url "http://localhost:8888/"
+When : Login page is displayed enter the valid user name and password and click on login
+Then : Home page should be displayed
